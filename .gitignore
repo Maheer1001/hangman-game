@@ -33,3 +33,6 @@ bin/
 
 ### Build output ###
 *.class
+
+### Maven ###
+target/
